@@ -1,6 +1,6 @@
 # Granular-CNN
 
-This repository documents notebooks used to generate results for the following peer-reviewed publication:
+This repository documents the notebooks (`1DCompression_Regression_Final.ipynb` and `SimpleShear_Regression_Final.ipynb`) used to generate results for the following peer-reviewed publication:
 
 Mital, U., Andrade, J.E. Bridging length scales in granular materials using convolutional neural networks. Comp. Part. Mech. (2021). https://doi.org/10.1007/s40571-021-00405-1
 
